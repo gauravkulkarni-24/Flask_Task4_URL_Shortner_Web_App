@@ -50,3 +50,8 @@ This application solves that problem by generating **short, easy-to-share URLs**
 5. History page displays all URLs
 
 ---
+
+## 📸 Screenshots
+
+---
+
