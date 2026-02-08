@@ -37,3 +37,16 @@ This application solves that problem by generating **short, easy-to-share URLs**
 - SQLite
 
 ---
+
+
+---
+
+## 🔄 Application Workflow
+
+1. User enters a URL on Home Page
+2. URL is validated using Regex
+3. Short URL is generated
+4. Both URLs are stored in database
+5. History page displays all URLs
+
+---
