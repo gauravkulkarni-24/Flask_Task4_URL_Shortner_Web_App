@@ -36,3 +36,32 @@ This application solves that problem by generating **short, easy-to-share URLs**
 **Database**
 - SQLite
 
+---
+
+## 🔄 Application Workflow
+
+1. User enters a URL on Home Page
+2. URL is validated using Regex
+3. Short URL is generated
+4. Both URLs are stored in database
+5. History page displays all URLs
+
+---
+
+## 📸 Screenshots
+
+---
+
+## 🌱 Learning Outcomes
+
+- Flask routing & templates
+- Jinja2 templating
+- URL validation using Regex
+- ORM-based database handling
+- Debugging Flask template errors
+- Project structuring for production
+
+---
+
+⭐ If you like this project, don’t forget to star the repo!
+
