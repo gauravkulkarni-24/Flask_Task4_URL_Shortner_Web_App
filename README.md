@@ -52,4 +52,16 @@ This application solves that problem by generating **short, easy-to-share URLs**
 
 ---
 
+## 🌱 Learning Outcomes
+
+- Flask routing & templates
+- Jinja2 templating
+- URL validation using Regex
+- ORM-based database handling
+- Debugging Flask template errors
+- Project structuring for production
+
+---
+
+⭐ If you like this project, don’t forget to star the repo!
 
